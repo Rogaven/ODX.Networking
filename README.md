@@ -4,7 +4,6 @@
 [![License](https://img.shields.io/cocoapods/l/ODX.Networking.svg?style=flat)](http://cocoapods.org/pods/ODX.Networking)
 [![Platform](https://img.shields.io/cocoapods/p/ODX.Networking.svg?style=flat)](http://cocoapods.org/pods/ODX.Networking)
 
-ODX.Networking is utility classes for serialization Objective-C objects.
 
 ## Usage
 
